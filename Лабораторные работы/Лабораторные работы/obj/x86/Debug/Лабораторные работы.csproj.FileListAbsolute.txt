@@ -1,0 +1,43 @@
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\Лабораторные работы.exe
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\Лабораторные работы.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form1.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Properties.Resources.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные работы.csproj.GenerateResource.Cache
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные работы.exe
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные работы.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form2.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form3.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form4.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\lab_3.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form5.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form6.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form7.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form8.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form10.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form11.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form9.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form12.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\testdll.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\testdll.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\lab_5.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\lab_5.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form13.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\laba6.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\laba6.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\dll.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\dll.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\itextsharp.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\itextsharp.xml
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные работы.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form15.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form16.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form17.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form18.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form19.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form20.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form21.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form22.resources
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\voprdll.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\bin\Debug\voprdll.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторные работы\Лабораторные работы\obj\x86\Debug\Лабораторные_работы.Form23.resources

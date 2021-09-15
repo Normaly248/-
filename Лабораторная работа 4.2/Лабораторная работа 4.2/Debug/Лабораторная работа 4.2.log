@@ -1,0 +1,35 @@
+﻿Построение начато 01.06.2020 14:49:16.
+     1>Проект "C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторная работа 4.2\Лабораторная работа 4.2\Лабораторная работа 4.2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Лабораторная работа 4.2.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Лабораторная работа 4.2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt "Лабораторная работа 4.2.cpp" /clr:nostdlib 
+         Лабораторная работа 4.2.cpp
+     1>Лабораторная работа 4.2.cpp(11): error C2552: TD: инициализация не агрегированных данных с помощью списка инициализации не допускается
+                 std::vector<_Ty>: типы с базовым классом не являются агрегатными
+                 with
+                 [
+                     _Ty=std::string
+                 ]
+     1>Лабораторная работа 4.2.cpp(13): error C2552: TSIM: инициализация не агрегированных данных с помощью списка инициализации не допускается
+                 std::vector<_Ty>: типы с базовым классом не являются агрегатными
+                 with
+                 [
+                     _Ty=std::string
+                 ]
+     1>Лабораторная работа 4.2.cpp(14): error C2552: TW: инициализация не агрегированных данных с помощью списка инициализации не допускается
+                 std::vector<_Ty>: типы с базовым классом не являются агрегатными
+                 with
+                 [
+                     _Ty=std::string
+                 ]
+     1>Лабораторная работа 4.2.cpp(45): error C2039: find: не является членом "std"
+     1>Лабораторная работа 4.2.cpp(45): error C3861: find: идентификатор не найден
+     1>Построение проекта "C:\Users\Влад\Documents\Visual Studio 2010\Projects\Лабораторная работа 4.2\Лабораторная работа 4.2\Лабораторная работа 4.2.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.25

@@ -1,0 +1,4 @@
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

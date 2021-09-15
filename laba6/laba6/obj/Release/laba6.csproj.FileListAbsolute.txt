@@ -1,0 +1,4 @@
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\laba6\laba6\bin\Release\laba6.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\laba6\laba6\bin\Release\laba6.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\laba6\laba6\obj\Release\laba6.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\laba6\laba6\obj\Release\laba6.pdb

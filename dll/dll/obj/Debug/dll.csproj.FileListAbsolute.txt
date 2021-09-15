@@ -1,0 +1,12 @@
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\obj\Debug\Interop.ADOX.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\obj\Debug\dll.csproj.ResolveComReference.cache
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\bin\Debug\dll.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\bin\Debug\dll.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\obj\Debug\dll.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\obj\Debug\dll.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\bin\Debug\itextsharp.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\bin\Debug\itextsharp.xml
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\obj\Debug\Interop.LCC11.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\obj\Debug\Interop.MsoEuro.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\dll\dll\obj\Debug\dll.csprojResolveAssemblyReference.cache

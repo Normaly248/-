@@ -1,0 +1,5 @@
+E:\лабораторные работы 2 курс 1 семестр\теория программирования\testdll\testdll\bin\Release\testdll.dll
+E:\лабораторные работы 2 курс 1 семестр\теория программирования\testdll\testdll\bin\Release\testdll.pdb
+E:\лабораторные работы 2 курс 1 семестр\теория программирования\testdll\testdll\obj\Release\testdll.csprojResolveAssemblyReference.cache
+E:\лабораторные работы 2 курс 1 семестр\теория программирования\testdll\testdll\obj\Release\testdll.dll
+E:\лабораторные работы 2 курс 1 семестр\теория программирования\testdll\testdll\obj\Release\testdll.pdb

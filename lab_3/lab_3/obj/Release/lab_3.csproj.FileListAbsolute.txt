@@ -1,0 +1,5 @@
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\lab_3\lab_3\bin\Release\lab_3.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\lab_3\lab_3\bin\Release\lab_3.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\lab_3\lab_3\obj\Release\lab_3.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\lab_3\lab_3\obj\Release\lab_3.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\lab_3\lab_3\obj\Release\lab_3.csprojResolveAssemblyReference.cache

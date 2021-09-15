@@ -1,0 +1,5 @@
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\voprdll\voprdll\bin\Debug\voprdll.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\voprdll\voprdll\bin\Debug\voprdll.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\voprdll\voprdll\obj\Debug\voprdll.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\voprdll\voprdll\obj\Debug\voprdll.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\voprdll\voprdll\obj\Debug\voprdll.csprojResolveAssemblyReference.cache

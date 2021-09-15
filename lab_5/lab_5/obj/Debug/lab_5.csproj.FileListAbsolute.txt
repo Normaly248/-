@@ -1,0 +1,4 @@
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\lab_5\lab_5\bin\Debug\lab_5.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\lab_5\lab_5\bin\Debug\lab_5.pdb
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\lab_5\lab_5\obj\Debug\lab_5.dll
+C:\Users\Влад\Documents\Visual Studio 2010\Projects\lab_5\lab_5\obj\Debug\lab_5.pdb
